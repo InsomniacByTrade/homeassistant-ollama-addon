@@ -10,7 +10,7 @@ url: https://ollama.com
 map:
   - config:rw
   - share:rw
-image: visitsb/ollama-ipex:latest
+image: docker.io/visitsb/ollama-ipex
 init: false
 ingress: true
 legacy: true
